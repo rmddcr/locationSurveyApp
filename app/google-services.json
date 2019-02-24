@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1073557543500",
+    "firebase_url": "https://locationsurveyapp.firebaseio.com",
+    "project_id": "locationsurveyapp",
+    "storage_bucket": "locationsurveyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073557543500:android:e6cdfe191b9a555d",
+        "android_client_info": {
+          "package_name": "com.example.locationSurveyApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073557543500-5mvkq5mkfv04dnkg2b8sqt8ru1c80l88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.locationSurveyApp",
+            "certificate_hash": "1f65686f4b4ade6f4e5fbbf34639a8b96f257003"
+          }
+        },
+        {
+          "client_id": "1073557543500-to5snr8hr9l2hq9ajbod2ae4dsnjqt7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHA0BHT4ltwHRlrIDtWMWMU8Mi0a2onR8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073557543500-to5snr8hr9l2hq9ajbod2ae4dsnjqt7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
